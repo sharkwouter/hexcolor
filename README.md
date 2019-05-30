@@ -1,7 +1,7 @@
 # Hexcolor
 A simple commandline color picker for Xorg using bash.
 
-## Example
+## How to use
 When running hexcolor the cursor will change. After clicking a place on the screen the hex color code for the pixel where the mouse was will be returned.
 
 Using this script will look something like this:
