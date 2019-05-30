@@ -11,3 +11,10 @@ In Ubuntu/Debian they can be installed with the following command:
 ```bash
 apt-get install imagemagick x11-utils xdotool
 ```
+
+## Example
+Using this script will look like this:
+```bash
+wouter@wouter-pc:~/Sources/hexcolor$ ./hexcolor 
+#2DC450
+```
